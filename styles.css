@@ -48,6 +48,9 @@ a:hover{
     font-size: 0.75rem;
     padding: 20px 0 20px 0;
 }
+.top-container{
+    line-height: 3.8;
+}
 
 
 .middle-container{
@@ -122,7 +125,7 @@ padding: 50px 0 20px;
     font-family: "Montserrat Alternates", sans-serif;
     color: #ffffff;
     font-size: 20px;
-    padding: 10px 20px 10px 21px;
+    padding: 10px 20px 10px 20px;
     text-decoration: none;
 }
 
