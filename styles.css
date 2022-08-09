@@ -9,14 +9,14 @@ h1{
     font-size: 5.625rem;
     color: #66BFBf;
     margin: 50px auto 0 auto;
-    padding-block: 20px;
+    padding-block: 1.17%;
     line-height: 2;
 }
 h2{
     font-family: "Montserrat Alternates", sans-serif;
     font-weight: normal;
     font-size: 2rem;
-    padding-bottom: 10px;
+    padding-bottom: 2%;
     color: #66BFBF;
 
 }
@@ -46,10 +46,10 @@ a:hover{
 .copyright{
     color: #EAF6F6;
     font-size: 0.75rem;
-    padding: 20px 0 20px 0;
+    padding: 1% 0 1% 0;
 }
 .top-container{
-    line-height: 3.7;
+    line-height: 3.8;
 }
 
 
@@ -58,7 +58,7 @@ a:hover{
 }
 .bottom-container{
     background-color: #66BFBF;
-padding: 50px 0 20px;
+padding: 2% 0 4%;
 }
 
 .intro{
@@ -78,7 +78,7 @@ padding: 50px 0 20px;
 
 .profile {
     position: relative;
-    top: 15px;
+    top: 5%;
 }
 .skill-row {
     width: 50%;
@@ -89,17 +89,17 @@ padding: 50px 0 20px;
 .top-container{
     background-color: rgb(245, 232, 199);
     position: relative;
-    padding-top: 100px;
+    padding-top: 10%;
 }
 .top-cloud{
     position: absolute;
-    right: 200px;
-    top: 50px;
+    right: 15%;
+    top: 7%;
 }
 .bottom-cloud{
     position: relative;
-    right: 400px;
-    bottom: 20px;
+    right: 35%;
+    bottom: 50px;
 }
 .web{
     color: darkred;
